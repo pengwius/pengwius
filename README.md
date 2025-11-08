@@ -1,5 +1,3 @@
-# "Hello World!" 👋
-
 message me on telegram - [@pengwius](https://t.me/pengwius)
 
 contact me on matrix: @pengwius:matrix.org
@@ -10,7 +8,7 @@ contact me on matrix: @pengwius:matrix.org
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pengwius&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=false&hide_border=true&cache_seconds=1800)
 
-## I'm using
+## I use
 ![swift](https://img.shields.io/static/v1?message=Swift&style=for-the-badge&label=&logo=swift&logoColor=FFFFFF&color=F05138&cacheSeconds=86400)
 ![python](https://img.shields.io/static/v1?message=Python&style=for-the-badge&label=&logo=python&logoColor=FFFFFF&color=3776AB&cacheSeconds=86400)
 ![kotlin](https://img.shields.io/static/v1?message=Kotlin&style=for-the-badge&label=&logo=kotlin&logoColor=FFFFFF&color=ED861E&cacheSeconds=86400)
@@ -19,8 +17,12 @@ contact me on matrix: @pengwius:matrix.org
 ![react](https://img.shields.io/static/v1?message=React&style=for-the-badge&label=&logo=react&logoColor=FFFFFF&color=2665DF&cacheSeconds=86400)
 ![rust](https://img.shields.io/static/v1?message=Rust&style=for-the-badge&label=&logo=rust&logoColor=FFFFFF&color=B7410E&cacheSeconds=86400)
 ![neovim](https://img.shields.io/static/v1?message=Neovim&style=for-the-badge&label=&logo=neovim&logoColor=FFFFFF&color=26A99A&cacheSeconds=86400)
+![nix](https://img.shields.io/static/v1?message=Nix&style=for-the-badge&label=&logo=nixos&logoColor=FFFFFF&color=006CB9&cacheSeconds=86400)
+
 
 [![wakatime](https://wakatime.com/badge/user/7ed6869b-9352-42d5-8e0c-d6bf88160404.svg)](https://wakatime.com/@7ed6869b-9352-42d5-8e0c-d6bf88160404)
+
+[![codewars](https://www.codewars.com/users/Pengwius/badges/large)](https://www.codewars.com/users/Pengwius)
 
 ## My PGP public key
 <details>
@@ -80,20 +82,3 @@ contact me on matrix: @pengwius:matrix.org
     =C+OF
     -----END PGP PUBLIC KEY BLOCK-----
 </details>
-
-## Contributed to
-[![Wulkanowy](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy) <br/>
-[![Szkolny](https://github-readme-stats.vercel.app/api/pin/?username=szkolny-eu&repo=szkolny-android&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/szkolny-eu/szkolny-android) <br/>
-[![Wulkanowy-ios](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-ios&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy-ios) <br/>
-[![Wulkanowy-web](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy-web&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/wulkanowy/wulkanowy-web) <br/>
-[![Web-radio](https://github-readme-stats.vercel.app/api/pin/?username=web-radio&repo=webradio&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/web-radio/webradio) <br/>
-
-
-<!--- 🔭 I’m currently working on wulkanowy-web, maybe in future on wulkanowy-ios
-- 🌱 I’m currently learning web-development, mobile-development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ~~how to kill someone~~ how to write better code
-- 💬 Ask me about ... PLEASE DON'T ASK ME ABOUT NOTHING, NOOOOOOO
-- 📫 How to reach me: mail, discord, second mail, discord, third mail, discord, fourth mail, discord, fifth mail...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I think that I writing a spaghetti code, but nobody told me that.-->
