@@ -18,6 +18,7 @@ contact me on matrix: @pengwius:matrix.org
 ![neovim](https://img.shields.io/static/v1?message=Neovim&style=for-the-badge&label=&logo=neovim&logoColor=FFFFFF&color=26A99A&cacheSeconds=86400)
 ![nix](https://img.shields.io/static/v1?message=Nix&style=for-the-badge&label=&logo=nixos&logoColor=FFFFFF&color=006CB9&cacheSeconds=86400)
 
+Maindriving Macbook M1 with NixOS on Asahi Linux on it
 
 [![wakatime](https://wakatime.com/badge/user/7ed6869b-9352-42d5-8e0c-d6bf88160404.svg)](https://wakatime.com/@7ed6869b-9352-42d5-8e0c-d6bf88160404)
 
