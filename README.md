@@ -14,8 +14,6 @@ contact me on matrix: @pengwius:matrix.org
 ![js](https://img.shields.io/static/v1?message=Javascript&style=for-the-badge&label=&logo=javascript&logoColor=FFFFFF&color=E0CA3E&cacheSeconds=86400)
 ![react](https://img.shields.io/static/v1?message=React&style=for-the-badge&label=&logo=react&logoColor=FFFFFF&color=2665DF&cacheSeconds=86400)
 
-Maindriving Macbook M1 with NixOS on Asahi Linux on it
-
 [![wakatime](https://wakatime.com/badge/user/7ed6869b-9352-42d5-8e0c-d6bf88160404.svg)](https://wakatime.com/@7ed6869b-9352-42d5-8e0c-d6bf88160404)
 
 [![codewars](https://www.codewars.com/users/Pengwius/badges/large)](https://www.codewars.com/users/Pengwius)
